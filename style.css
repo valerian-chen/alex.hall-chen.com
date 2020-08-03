@@ -1,0 +1,7 @@
+.index-background{
+	height:100vh;
+	width:100vw;
+	background-image: url(alex.jpg);
+	background-position: center top;
+	background-size: cover;
+}
