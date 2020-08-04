@@ -6,6 +6,11 @@
 	background-size: cover;
 }
 
-.container-bg{
-	background-color: #ffffff;
+#research-background{
+	width: auto;
+	height: 500px;
+	background-image: url(Untitled.jpg);
+	background-position: center center;
+	background-size: cover;
+	overflow: hidden;
 }
