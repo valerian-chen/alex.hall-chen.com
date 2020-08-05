@@ -14,3 +14,12 @@
 	background-size: cover;
 	overflow: hidden;
 }
+
+#CV-background{
+	width: auto;
+	height: 500px;
+	background-image: url(Alex_CV.jpg);
+	background-position: center center;
+	background-size: cover;
+	overflow: hidden;
+}
